@@ -24,6 +24,8 @@ Create a `.env` file in the root directory:
 MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 ```
+## Base URL
+https://github.com/emaicorp/nest-crud
 
 ## API Endpoints
 
